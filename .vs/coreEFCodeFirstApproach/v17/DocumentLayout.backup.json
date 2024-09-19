@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefcodefirstapproach\\migrations\\20240916193800_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|solutionrelative:migrations\\20240916193800_initialmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefcodefirstapproach\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefcodefirstapproach\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefcodefirstapproach\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefcodefirstapproach\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefcodefirstapproach\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240916193800_InitialMigrate.cs",
-              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Migrations\\20240916193800_InitialMigrate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240916193800_InitialMigrate.cs",
-              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Migrations\\20240916193800_InitialMigrate.cs",
-              "RelativeToolTip": "Migrations\\20240916193800_InitialMigrate.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:38:01.024Z",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T17:51:51.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:00:13.058Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T17:51:00.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Models\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Models\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Models\\ApplicationDBContext.cs",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Controllers\\CustomersController.cs*",
+              "RelativeToolTip": "Controllers\\CustomersController.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T20:45:02.143Z",
+              "WhenOpened": "2024-09-19T17:50:24.714Z",
               "EditorCaption": ""
             }
           ]
