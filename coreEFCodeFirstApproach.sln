@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreEFCodeFirstApproach", "coreEFCodeFirstApproach.csproj", "{90091134-01A1-4862-8E0D-B844E4F6E7D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "coreEFCodeFirstApproach", "coreEFCodeFirstApproach.csproj", "{90091134-01A1-4862-8E0D-B844E4F6E7D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreIdentityApplication", "..\coreIdentityApplication\coreIdentityApplication.csproj", "{918FF9FA-E0EC-44C0-A971-8E49FCB0CCED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{90091134-01A1-4862-8E0D-B844E4F6E7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90091134-01A1-4862-8E0D-B844E4F6E7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90091134-01A1-4862-8E0D-B844E4F6E7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918FF9FA-E0EC-44C0-A971-8E49FCB0CCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918FF9FA-E0EC-44C0-A971-8E49FCB0CCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918FF9FA-E0EC-44C0-A971-8E49FCB0CCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918FF9FA-E0EC-44C0-A971-8E49FCB0CCED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

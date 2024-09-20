@@ -3,16 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefcodefirstapproach\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_coreIdentityApplication_4c626de6_9b33_4103_b4d0_9c7c504534ef/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefcodefirstapproach\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_coreIdentityApplication_4c626de6_9b33_4103_b4d0_9c7c504534ef/True/SqlTable/dbo.AspNetUserTokens.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefcodefirstapproach\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90091134-01A1-4862-8E0D-B844E4F6E7D2}|coreEFCodeFirstApproach.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_coreIdentityApplication_4c626de6_9b33_4103_b4d0_9c7c504534ef/True/SqlTable/dbo.AspNetUserLogins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FF9FA-E0EC-44C0-A971-8E49FCB0CCED}|..\\coreIdentityApplication\\coreIdentityApplication.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreidentityapplication\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FF9FA-E0EC-44C0-A971-8E49FCB0CCED}|..\\coreIdentityApplication\\coreIdentityApplication.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreidentityapplication\\views\\demo\\policy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FF9FA-E0EC-44C0-A971-8E49FCB0CCED}|..\\coreIdentityApplication\\coreIdentityApplication.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreidentityapplication\\views\\demo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918FF9FA-E0EC-44C0-A971-8E49FCB0CCED}|..\\coreIdentityApplication\\coreIdentityApplication.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreidentityapplication\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +31,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Views\\Customers\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Views\\Customers\\Create.cshtml",
-              "RelativeToolTip": "Views\\Customers\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T17:51:51.625Z",
+              "Title": "dbo.AspNetUserTokens [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_coreIdentityApplication_4c626de6_9b33_4103_b4d0_9c7c504534ef/True/SqlTable/dbo.AspNetUserTokens.sql",
+              "ToolTip": "dbo.AspNetUserTokens [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-19T19:32:43.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Views\\Customers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Views\\Customers\\Index.cshtml",
-              "RelativeToolTip": "Views\\Customers\\Index.cshtml",
+              "Title": "dbo.AspNetUserLogins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_coreIdentityApplication_4c626de6_9b33_4103_b4d0_9c7c504534ef/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "ToolTip": "dbo.AspNetUserLogins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-19T19:32:36.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreIdentityApplication\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "..\\coreIdentityApplication\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreIdentityApplication\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "..\\coreIdentityApplication\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T19:25:53.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreIdentityApplication\\Views\\Demo\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\coreIdentityApplication\\Views\\Demo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreIdentityApplication\\Views\\Demo\\Details.cshtml",
+              "RelativeToolTip": "..\\coreIdentityApplication\\Views\\Demo\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-19T17:51:00.54Z",
+              "WhenOpened": "2024-09-19T19:27:30.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreIdentityApplication\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\coreIdentityApplication\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreIdentityApplication\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "..\\coreIdentityApplication\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T19:26:55.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFCodeFirstApproach\\Controllers\\CustomersController.cs*",
-              "RelativeToolTip": "Controllers\\CustomersController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T17:50:24.714Z",
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_coreIdentityApplication_4c626de6_9b33_4103_b4d0_9c7c504534ef/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-19T19:25:11.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Policy.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreIdentityApplication\\Views\\Demo\\Policy.cshtml",
+              "RelativeDocumentMoniker": "..\\coreIdentityApplication\\Views\\Demo\\Policy.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreIdentityApplication\\Views\\Demo\\Policy.cshtml",
+              "RelativeToolTip": "..\\coreIdentityApplication\\Views\\Demo\\Policy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T19:27:49.096Z",
               "EditorCaption": ""
             }
           ]
